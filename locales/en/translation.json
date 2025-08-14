@@ -1,0 +1,9 @@
+{
+  "greeting": "Hello World!",
+  "greetingWithName": "Hello {{name}}!",
+  "callStatus": {
+    "incoming": "Incoming Call",
+    "connected": "Connected",
+    "disconnected": "Disconnected"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "greeting": "Hej Verden!",
+  "greetingWithName": "Hej {{name}}!",
+  "callStatus": {
+    "incoming": "Indgående opkald",
+    "connected": "Forbundet",
+    "disconnected": "Afbrudt"
+  }
+}

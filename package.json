@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skndkprivat/Genesys_Cloud_Test_Tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/skndkprivat/Genesys_Cloud_Test_Tools/issues"
+  },
+  "homepage": "https://github.com/skndkprivat/Genesys_Cloud_Test_Tools#readme",
+  "dependencies": {
+    "i18next": "^25.3.4",
+    "i18next-fs-backend": "^2.6.0"
+  }
+}
